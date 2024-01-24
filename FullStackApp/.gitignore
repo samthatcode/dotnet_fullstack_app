@@ -1,0 +1,26 @@
+# Visual Studio Code directories
+.vscode/
+
+# Compiled binaries
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Packages folder
+*.nupkg
+*.paket
+.paket/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
